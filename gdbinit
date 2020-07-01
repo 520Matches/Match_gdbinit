@@ -169,6 +169,13 @@ document ic
 info catch
 end
 
+define ir
+info register
+end
+document ir
+info register
+end
+
 # layout=======================================================
 define ln
 layout next
